@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-# andy-beable
-
 Hi there, 
 
 Aspiring Web Developer:computer:
