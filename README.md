@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**AndyBeable/andybeable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# andy-beable
 
-Here are some ideas to get you started:
+Hi there, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aspiring Web Developer:computer:
+
+Currently having fun building up my portfolio with plenty more projects in the pipeline!:books:
+
+:clipboard: Skills: HTML | CSS | JS | React
+
+:bird: <a href="https://twitter.com/Beabs19">Twitter</a> 
+| :necktie: <a href="https://www.linkedin.com/in/andy-beable/">LinkedIn</a> | :camera: <a href="https://www.instagram.com/andybeable/">Instagram</a>
