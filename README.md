@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hi there, 
+### Hi there 👋, I'm Andy.
 
 Aspiring Web Developer:computer:
 
