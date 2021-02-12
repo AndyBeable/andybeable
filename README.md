@@ -2,7 +2,7 @@
 
 Aspiring Web Developer:computer:
 
-Currently having fun building up my portfolio with plenty more projects in the pipeline!:books:
+Currently building up my portfolio with plenty more projects in the pipeline!:books:
 
 :clipboard: Skills: HTML | CSS | JS | React
 
