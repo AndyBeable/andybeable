@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Andy.
 
-Aspiring Web Developer:computer:
+Web Developer:computer:
 
 Currently building up my portfolio with plenty more projects in the pipeline!:books:
 
